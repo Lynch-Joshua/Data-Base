@@ -1,7 +1,7 @@
 # Data-Base
 Proyecto de bases de datos relacionales sql para proceso de Matricula
 
-## nombre
+## Nombre
 Nombre del proyecto
 SchoolEnroll System, en español Sistema de inscripción escolar.
 ## Objetivos del Proyecto
